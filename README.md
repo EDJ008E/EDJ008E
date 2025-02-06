@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Edwin Joel</h1>
+<h1 align="center"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Edwin Joel ! 🚀
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7AB07&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Data+Analyst+%7C+ML+%26+IoT;Exploring+AI+%7C+PC+Building+%7C+Prompt+Engineering;Passionate+About+Data+%26+Innovation!"/>
+</p>
 <h3 align="center">🚀 Passionate ML & Data Science Enthusiast | Web Developer | AI Explorer</h3>
 
 ---
