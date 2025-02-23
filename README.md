@@ -1,7 +1,7 @@
 # <p align="center">Hi, I'm Edwin Joel! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;ML+Enthusiast;Web+Developer;AWS+Cloud+Club+Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;ML+Enthusiast;Web+Developer;AWS+Cloud+Club+Graphic+Designer" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -15,10 +15,9 @@ AWS Cloud Club Graphic Designer || Department of AI&DS Event Coordinator (2024 -
 
 ## 🛠 Tech Stack
 
-- **Programming:** Python, JavaScript
-- **Machine Learning & Data Science:** TensorFlow, PyTorch, Scikit-Learn, Power BI, Tableau
-- **Web Development:** HTML, CSS, JavaScript, React
-- **Cloud & DevOps:** AWS, Git, GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tensorflow,pytorch,aws,git,github,tableau,powerbi" alt="Tech Stack" />
+</p>
 
 ---
 
