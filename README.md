@@ -1,65 +1,43 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Edwin Joel ! 🚀
-</h1>
+# Hi, I'm Edwin Joel! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7AB07&center=true&vCenter=true&width=600&lines=Tech+Enthusiast+%7C+Data+Analyst+%7C+ML+%26+IoT;Exploring+AI+%7C+PC+Building+%7C+Prompt+Engineering;Passionate+About+Data+%26+Innovation!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=FFA559&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;ML+Enthusiast;Web+Developer;AWS+Cloud+Club+Graphic+Designer" alt="Typing SVG" />
 </p>
-<h3 align="center">🚀 Passionate ML & Data Science Enthusiast | Web Developer | AI Explorer</h3>
+
+## 🚀 About Me
+AWS Cloud Club Graphic Designer || Department of AI&DS Event Coordinator (2024 - 2025) || Aspiring Data Scientist || ML Enthusiast || Web Developer || Power BI || Tableau || Python
+
+🎓 Studying at **PSNA College of Engineering and Technology**  
+📍 Based in **Dindigul, Tamil Nadu, India**  
+🌍 Passionate about **AI, Data Science, and Web Development**
 
 ---
 
-### 🛠 Tech Stack:
-#### 🚀 Languages & Frameworks:
-<p>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-  </a>
-</p>
+## 🛠 Tech Stack
 
-#### 🛢️ Databases & Cloud:
-<p>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a>
-</p>
+- **Programming:** Python, JavaScript
+- **Machine Learning & Data Science:** TensorFlow, PyTorch, Scikit-Learn, Power BI, Tableau
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Cloud & DevOps:** AWS, Git, GitHub
 
-#### 🎨 Design & UI/UX:
-<p>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
-  </a>
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Edwin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Latest Projects:
-- 🔍 **Deep Sight: Unveiling Digital Deception** (Deepfake Detection AI)
-- 🌐 **AI-Driven Automated Timetable Generator**
-- 🖥 **Interactive Web Dashboard for Disaster Monitoring**
-- 📊 **Data Science Pipeline with MongoDB & AWS**
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Edwin%20Joel-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="your-website-link">
+    <img src="https://img.shields.io/badge/Website-Edwin's%20Portfolio-orange?style=flat&logo=google-chrome" alt="Website" />
+  </a>
+</p>
 
----
-
-### 📌 Fun Fact:
-I love solving **ML problems**, developing **cool projects**, and exploring **new technologies**! 🚀
-
----
-
-Feel free to connect! 🚀✨  https://edj008e.github.io/WebPro/
+💡 **"Turning data into insights and code into impact!"**
