@@ -16,7 +16,7 @@ AWS Cloud Club Graphic Designer || Department of AI&DS Event Coordinator (2024 -
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tensorflow,pytorch,aws,git,github,tableau,powerbi,figma,ps,ai" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tensorflow,pytorch,aws,figma,ps,ai,git,github,tableau,powerbi" alt="Tech Stack" />
 </p>
 
 ---
